@@ -1,6 +1,6 @@
 ---
 type: paper
-title: SDN in the Stratosphere: Loon's Aerospace Mesh Network
+title: "SDN in the Stratosphere: Loon's Aerospace Mesh Network"
 description: Paper on the Loon Minkowski TS-SDN controller and results operating Loon's stratospheric balloon network.
 resource: https://doi.org/10.1145/3544216.3544231
 tags: []
