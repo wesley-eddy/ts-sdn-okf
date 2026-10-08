@@ -14,6 +14,8 @@ links between satellites, aircraft, ships, and ground stations. Spacetime
 predicts and manages a network's physical links, including proactive scheduling
 and reconstruction ahead of disruptions, instead of only afterwards.
 
+Spacetime grew out of the Google Minkowski / Loon SDN software.
+
 # Related References
 
 - [Aalyria company website](www.aalyria.com)
