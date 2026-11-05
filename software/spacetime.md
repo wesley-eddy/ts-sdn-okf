@@ -18,4 +18,4 @@ Spacetime grew out of the Google Minkowski / Loon SDN software.
 
 # Related References
 
-- [Aalyria company website](www.aalyria.com)
+- [Aalyria company website](https://www.aalyria.com)

@@ -24,7 +24,7 @@ the Loon TS-SDN software.
 This paper explains some basic background on the Loon network and services,
 then gives an overview of the TS-SDN design that was employed to control that
 network.  Some results on service performance are provided, along with
-decription of several associated system design aspects that are critical to the
+description of several associated system design aspects that are critical to the
 resilience of the network, like the tiered control plane and protocol
 capabilities.
 
