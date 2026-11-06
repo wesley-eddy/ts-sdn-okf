@@ -5,7 +5,7 @@ Academic publications on TS-SDN.
 * 2015
   - [Barritt/Eddy AIAA SPACE paper](papers/barritt-space-2015.md) - Early paper describing the industry needs and concept of TS-SDN.
 * 2016
-  - [Barritt/Eddy AIAA ICSSC paper](papers/barritt-icssc-2016.md) - Application of TS-SDN to LEO satellite networks.
+  - [Barritt/Eddy AIAA ICSSC paper](papers/barritt-icssc-2016.md) - Advantages of SDN over dynamic routing protocols for large LEO satellite constellations.
 * 2017
   - [Barritt et al. IEEE Aerospace Conference paper](papers/barritt-aeroconf-2017.md) - Application of TS-SDN to UAV mesh and backhaul networks, comparing it with distributed mesh routing.
 * 2022

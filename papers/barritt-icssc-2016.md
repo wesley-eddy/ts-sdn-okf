@@ -1,7 +1,7 @@
 ---
 type: paper
 title: "SDN Enhancements for LEO Satellite Networks"
-description: Paper on applying TS-SDN to low-earth orbit (LEO) satellite networks.
+description: Paper on the advantages of SDN over dynamic routing protocols for controlling large low-earth orbit (LEO) satellite constellations, with simulation results showing why dynamic routing protocols do not work well at that scale.
 resource: https://doi.org/10.2514/6.2016-5755
 tags: []
 sources:
@@ -20,10 +20,18 @@ Internetworking and Communications session.
 
 # Paper Summary
 
-The paper follows the authors' 2015 TS-SDN concept paper by applying TS-SDN
-to LEO satellite networks.  In these networks, satellite motion makes the
-availability of highly-directional links change over time in predictable
-ways, which a TS-SDN controller can plan around.
+Routing in large LEO communications satellite constellations has been studied
+since the 1990s and remains a hard problem.  Newly proposed constellations
+involve hundreds of spacecraft at relatively low altitudes, and aim to serve
+several orders of magnitude more ground users than earlier systems.
+
+The paper describes the aspects of SDN that motivate its use in LEO
+constellations and that improve on other ways of managing network layer
+routing and forwarding, such as the dynamic routing protocols previously
+studied for large LEO systems.  It presents simulation results showing the
+problems with traditional use of dynamic routing protocols, and why they will
+never work well for large LEO constellations.  These results provide a
+baseline for comparison with the performance an SDN-based system can achieve.
 
 # Bibtex
 
